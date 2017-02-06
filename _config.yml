@@ -1,9 +1,5 @@
 theme: jekyll-theme-hacker
 title: KAKUL SARMA
-github: kakul232
- kramdown:
-   input: GFM
-   hard_wrap: false
- gems:
-   - jekyll-coffeescript
-   - jekyll-paginate
+description: Backend Programer
+url: https://github.com/kakul232
+ 
